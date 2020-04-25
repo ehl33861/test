@@ -6,6 +6,7 @@ using namespace std;
 
 //my functions
 
+/*endings*/
 
 //sister drives you home
 void ending1(string sister)
